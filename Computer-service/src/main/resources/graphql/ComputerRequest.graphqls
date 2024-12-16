@@ -1,0 +1,6 @@
+input ComputerInput {
+    proce: String
+    ram: Int
+    price: Float
+    hardDrive: Int
+}
